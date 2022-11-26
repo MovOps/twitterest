@@ -8,4 +8,4 @@ sudo useradd Peter
 sudo chown Peter dp.java
 deployment5 master
 deployment4
-
+deploy to staging Env
