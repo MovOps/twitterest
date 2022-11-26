@@ -1,4 +1,5 @@
 #! /bin/bash
+#This is the way 
 mkdir Deploy
 touch dp.java
 echo "Welcome to group07tech" > dp.java
