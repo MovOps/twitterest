@@ -7,3 +7,5 @@ chmod 777 /dp.java
 sudo useradd Peter
 sudo chown Peter dp.java
 deployment5 master
+deployment4
+
